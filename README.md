@@ -1,7 +1,4 @@
 # Enhancing Phishing Email Detection with Sentiment Analysis: A Hybrid Approach
-This is my Thesis
-
-# Phishing Email Detection Using DistilBERT and SVM
 
 This project implements a phishing email detection system using a hybrid approach of **DistilBERT** for sentiment analysis and **Support Vector Machine (SVM)** for classification. The model analyzes email content for phishing indicators and uses sentiment-aware embeddings to improve classification accuracy.
 
